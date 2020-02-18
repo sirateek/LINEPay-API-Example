@@ -1,4 +1,4 @@
-![](https://github.com/sirateek/LINEPay-API-Example/raw/master/Images/maxresdefault.jpg)
+![](https://github.com/sirateek/LINEPay-API-Example/raw/master/Images/Cover.png)
 # LINEPay API Example
 The example of LINEPay API project using LINE Messaging API x Firebase
 
@@ -20,6 +20,6 @@ This project use these dependency to complete the operation
 * [request-promise](https://www.npmjs.com/package/request-promise)
 
 ## Check out this tutorial on medium
-* [Click here](https://sirateek.me)
+* [Click here](https://link.medium.com/3jwElO3hb4)
 
 ### Develop with ♡ by [Siratee K](https://sirateek.me).
