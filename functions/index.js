@@ -126,7 +126,7 @@ exports.webhook = functions.region("asia-east2").https.onRequest((req, res) => {
 
 exports.confirmOrder = functions.https.onRequest((req, res) => {
   console.log(req.query.transactionId);
-  if (typeof req.query.transactionId === "undefined") {
+  if (typeof req.query.userID === "undefined") {
     return res.send("You cancled the payment");
   } else {
     const transactionId = req.query.transactionId;
