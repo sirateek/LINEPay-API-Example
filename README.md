@@ -1,4 +1,4 @@
-# LINEPay APIExample
+# LINEPay API Example
 The example of LINEPay API project using LINE Messaging API x Firebase
 
 ## How to use?
