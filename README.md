@@ -9,6 +9,9 @@ This project was created base on Firebase Cloud Function x LINE Messaging API. I
 
 Installation is simple, Just copy this code and deploy it to your firebase project then config the webhook url in LINE Messaging API to hook it with the `webhook` function
 
+## Payload creator
+Payload creator is a Javascript module that will return the JSON payload data when it was called (This is not a dependency. But it help to reduce the code in file `index.js`. Make it easier to read)
+
 ## Dependency usage
 This project use these dependency to complete the operation
 * **[lineapihelper](https://www.npmjs.com/package/lineapihelper)**
