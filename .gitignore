@@ -1,0 +1,5 @@
+# Ignore node_module
+*node_module/
+
+# Ignore Mac OS .DS_Store File
+*.DS_Store
