@@ -15,7 +15,7 @@
     "actions-on-google": "^2.14.0",
     "dialogflow": "^4.0.3",
     "dialogflow-fulfillment": "^0.6.1",
-    "firebase-admin": "^9.9.0",
+    "firebase-admin": "^11.4.1",
     "firebase-functions": "^3.14.1",
     "googleapis": "^74.2.0",
     "lineapihelper": "^0.1.3",
